@@ -1,0 +1,15 @@
+.navbar-brand{
+    font-family: 'Rubik Moonrocks', cursive;
+    color:lightskyblue;
+    font:size 2em;
+    font-weight:bold;
+    }
+
+/* plus btn for adding new users bottom right */
+.box{
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    margin-bottom:30px;
+
+}

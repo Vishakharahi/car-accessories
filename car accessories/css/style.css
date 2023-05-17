@@ -1,0 +1,66 @@
+.navbar-brand{
+font-family: 'Rubik Moonrocks', cursive;
+color:lightskyblue;
+font:size 2em;
+font-weight:bold;
+}
+.custom-nav .custom-nav-item a{
+ color:lightskyblue;
+}
+
+.custom-nav-item:hover{
+ background-color:hotpink;
+ border:red 1ps;
+ border-radius: 10px; 
+}
+
+.remove-vid-marg{
+margin: 0px;
+padding: 0px;
+
+}
+   
+.vid-parent{
+    position: relative;
+
+}
+
+video{
+    height: 100%;
+    width: 100%; 
+}
+
+.vid-overlay{
+    position: absolute;
+    top:0;
+    left:0;
+    height:100%;
+    width: 100%;
+    background-color: midnightblue;
+    z-index:1;
+    opacity:0.8;
+}
+.vid-content{
+    font-color;font-weight: nowrap;
+    font-size: xx-large;
+}
+
+.card-footer{
+    position: relative;
+    top:0;
+    left:0;
+    height:10%;
+    width:10;
+}
+
+
+
+
+
+
+
+
+
+
+
+
